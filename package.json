@@ -1,0 +1,27 @@
+{
+  "name": "random-messages-009",
+  "version": "1.0.1",
+  "description": "Random Messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Carlos Jimenez <carlos.ml.jimenezz@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosJ09/random-message-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CarlosJ09/random-message-package/issues"
+  },
+  "homepage": "https://github.com/CarlosJ09/random-message-package#readme"
+}
